@@ -51,10 +51,7 @@ Married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka, w
 
 This project has been an incredible learning experience and has solidified my foundation in data analysis. The insights gained from analyzing Diwali sales data have provided a deeper understanding of customer spending behaviour. I'm excited to continue this journey, learn more, and tackle even more challenging projects in the future.
 
-Thank you for visiting my repository! If you have any suggestions or feedback, feel free to reach out.
 
-### Link to project:
-https://colab.research.google.com/drive/1dxZdW-o3l6DFThAUa105RBn7ZLX-ueTJ#scrollTo=9GZPGiU7v_1K
 
 
 
